@@ -1,7 +1,7 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
-# Hi, I'm Beatriz  <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+# Hi, I'm Beatriz  <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 - Sharing updates on <a href="https://www.linkedin.com/in/beatriz-méndez-aguilar-a7a306210">LinkedIn</a> 💼
 <p align="justify">
