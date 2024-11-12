@@ -16,7 +16,13 @@ I'm a software engineer who is passionate about making open-source more accessib
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   &emsp;
 ##
+####  Database
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![DB2](https://img.shields.io/badge/DB2-316192?style=flat&logo=db2&logoColor=green)
+![Oracle](https://img.shields.io/badge/Oracle-316192?style=flat&logo=oracle&logoColor=orange)
 
   ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="100">  </picture> Frontend Development
 
