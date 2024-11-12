@@ -1,15 +1,20 @@
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"> <img src="https://profile-counter.glitch.me/%7BBeatriz369/count.svg" alt="visitor badge"/></p>
+<p align="center"> <img src="https://profile-counter.glitch.me/%7Beatriz369/count.svg" alt="visitor badge"/></p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	github-contribution-grid-snake.svg
 </p>
-# Hi, I'm Beatriz  <img align="left" width="350" height="350" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-
-- Sharing updates on <a href="https://www.linkedin.com/in/beatriz-méndez-aguilar-a7a306210">LinkedIn</a> 💼
+ <img align="left" width="350" height="350" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+-  Hi, I'm Beatriz 
 <p align="justify">
+	
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Throughout my 9 years of experience in the technology sector, I have developed and improved digital products and services with business models ranging from products and services in the government and banking sectors where I have found my great passion. My philosophy has always been to listen to the user of the applications and empathize with them, as well as to find patterns in their behavior.
+- Sharing updates on <a href="https://www.linkedin.com/in/beatriz-méndez-aguilar-a7a306210">LinkedIn</a> 💼
+
 </p>
 
+<br><br><br>
+	<br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
   &emsp;
@@ -95,22 +100,9 @@ I'm a software engineer who is passionate about making open-source more accessib
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
 </div>
-
 <br>
-
-<div align="center">
-<a href="https://github.com/SophieNguyen113">
-</a>
-
 </div>
-
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-
-
 <div align="center">
-
 
  # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -118,9 +110,3 @@ I'm a software engineer who is passionate about making open-source more accessib
 ![](https://github-readme-stats.vercel.app/api?username=Beatriz369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Beatriz369&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Beatriz369&icon=1&color=5)](https://visitcount.itsvg.in)
-<br>
-
------
