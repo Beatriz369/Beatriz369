@@ -8,7 +8,6 @@
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Throughout my 9 years of experience in the technology sector, I have developed and improved digital products and services with business models ranging from products and services in the government and banking sectors where I have found my great passion. My philosophy has always been to listen to the user of the applications and empathize with them, as well as to find patterns in their behavior.
 </p>
 
-## 🛠️ My Skills
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
   &emsp;
