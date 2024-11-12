@@ -1,5 +1,5 @@
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"> <img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
 # Hi, I'm Beatriz  <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
